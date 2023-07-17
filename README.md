@@ -1,4 +1,4 @@
-# CodecClause_java_development
+# CodecClause_online_resume_builder
 import java.util.Scanner;
 
 public class ResumeBuilder {
